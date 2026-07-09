@@ -1,0 +1,18 @@
+{
+  "name": "@ai-native-solutions/mux-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HTTP proxy for Mux",
+  "main": "./server.mjs",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@ai-native-solutions/mux-sdk": "^1.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sjgant80-hub/mux-api.git"
+  }
+}
